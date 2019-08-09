@@ -17,22 +17,14 @@ module.exports = {
         // 这里的选项会传递给 postcss-loader
       },
       less: {
-        rules: [
-          {
-            test: /\.less$/,
-            use: [
-              {
-                loader: 'style-loader', // creates style nodes from JS strings
-              },
-              {
-                loader: 'css-loader', // translates CSS into CommonJS
-              },
-              {
-                loader: 'less-loader', // compiles Less to CSS
-              },
-            ],
-          },
-        ],
+        module: {
+          rules: [
+            {
+              test: /\.less$/,
+              loader: 'less-loader', // compiles Less to CSS
+            },
+          ],
+        },
       }
     }
   }
