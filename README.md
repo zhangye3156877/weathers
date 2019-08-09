@@ -19,3 +19,4 @@
 ## server
 + NodeJs
 + 服务API-新知天气
++ 数据库 redis
