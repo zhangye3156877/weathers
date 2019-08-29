@@ -27,5 +27,7 @@ module.exports = {
         },
       }
     }
-  }
+  },
+  publicPath: './',
+  outputDir: 'distx',
 }
