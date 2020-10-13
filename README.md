@@ -3,7 +3,7 @@
 ## h5-pwa
 + 移动端
 + pwa实现
-+ vue3
++ react
 
 ## electron
 + pc端
