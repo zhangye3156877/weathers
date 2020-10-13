@@ -1,5 +1,5 @@
-# weathers
-跨端天气项目
+# MahjongManager
+跨端项目
 ## h5-pwa
 + 移动端
 + pwa实现
