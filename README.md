@@ -3,12 +3,13 @@
 ## h5-pwa
 + 移动端
 + pwa实现
-+ vue构建
++ vue3
 
 ## electron
 + pc端
++ react
 
-## flutter
+## react-native
 + IOS
 + Android
 
@@ -18,5 +19,3 @@
 
 ## server
 + NodeJs
-+ 服务API-新知天气
-+ 数据库 redis
